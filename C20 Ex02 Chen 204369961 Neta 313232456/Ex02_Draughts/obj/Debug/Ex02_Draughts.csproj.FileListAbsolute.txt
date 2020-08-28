@@ -1,0 +1,5 @@
+C:\Users\Chen\source\repos\C20 Ex02 Chen 204369961 Neta 313232456.cs\Ex02_Draughts\bin\Debug\Ex02_Draughts.exe
+C:\Users\Chen\source\repos\C20 Ex02 Chen 204369961 Neta 313232456.cs\Ex02_Draughts\bin\Debug\Ex02_Draughts.pdb
+C:\Users\Chen\source\repos\C20 Ex02 Chen 204369961 Neta 313232456.cs\Ex02_Draughts\obj\Debug\Ex02_Draughts.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\C20 Ex02 Chen 204369961 Neta 313232456.cs\Ex02_Draughts\obj\Debug\Ex02_Draughts.exe
+C:\Users\Chen\source\repos\C20 Ex02 Chen 204369961 Neta 313232456.cs\Ex02_Draughts\obj\Debug\Ex02_Draughts.pdb
